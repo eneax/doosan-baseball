@@ -110,7 +110,6 @@ a .fa {
 a .fa-rss:hover { color: #044da1; }
 a .fa-youtube-play:hover { color: #ff0000; }
 
-
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 540px) { 
   h1.display-4.mt-3 {
@@ -135,4 +134,3 @@ a .fa-youtube-play:hover { color: #ff0000; }
 
   footer { font-size: 80%; }
 }
-
