@@ -91,9 +91,7 @@ button[type="submit"]:hover {
 }
 
 button[type="submit"]:focus, button[type="submit"].focus { box-shadow: none; }
-
 .social-icon i { padding-right: 1em; }
-
 footer { background-color: #ddd; }
 
 footer a,
